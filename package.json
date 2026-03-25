@@ -1,0 +1,15 @@
+{
+  "name": "isms-backend",
+  "version": "1.0.0",
+  "description": "\"this is to hold my backend program\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
